@@ -24,11 +24,11 @@ Key Features
   
 Technical Details:
 
-  Programming Language: Python 3 
+   Programming Language: Python 3 
   
-  Database: MySQL 
+   Database: MySQL 
   
-  Libraries and Tools: 
+   Libraries and Tools: 
     mysql.connector: Used for connecting and interacting with the MySQL database. 
     tkinter: Used for creating the graphical user interface. 
     Visual Studio Code: Recommended development environment for writing and managing the application code. 
