@@ -3,13 +3,13 @@
 The Ticket Booking System is a desktop application developed to simplify and manage ticket bookings using a user-friendly interface. The system is designed to handle various operations such as creating, updating, deleting, and searching bookings efficiently. The application leverages the power of MySQL for database management and Tkinter for the graphical user interface.
 
 Key Features
-1) Database Management:
+1)Database Management:
    
   Automatic Database Creation: The application checks for the existence of the required database and creates it if it does not exist. This includes setting up the necessary tables to store booking information.
   CRUD Operations: Users can perform Create, Read, Update, and Delete operations on the bookings.
   Data Integrity: Ensures data integrity and consistency through structured database queries and error handling.
   
-2) User Interface:
+2)User Interface:
    
   Tkinter Integration: The application uses Tkinter, a standard Python interface to the Tk GUI toolkit, to create a simple and intuitive interface.
   Input Fields and Buttons: The interface includes labeled input fields for booking ID, customer name, and ticket type, along with buttons for creating, updating, deleting, and searching bookings. 
