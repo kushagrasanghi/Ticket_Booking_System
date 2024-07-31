@@ -22,7 +22,7 @@ Key Features
   Instant Feedback: Users receive immediate feedback on their actions, such as successful creation, deletion, and updating of bookings, or errors like booking not found. 
   Data Display: The application displays the booking details retrieved from the database, providing users with clear and concise information. 
   
-Technical Details 
+Technical Details:
 
   Programming Language: Python 3 
   
@@ -33,7 +33,7 @@ Technical Details
     -tkinter: Used for creating the graphical user interface. 
     -Visual Studio Code: Recommended development environment for writing and managing the application code. 
     
-How It Works 
+How It Works:
 
 1) Database Initialization: Upon launching the application, it checks if the ticket_booking_system database exists. If not, it creates the database and the bookings table.
    
