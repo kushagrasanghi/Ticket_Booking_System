@@ -34,6 +34,7 @@ Technical Details
 How It Works 
 
 1) Database Initialization: Upon launching the application, it checks if the ticket_booking_system database exists. If not, it creates the database and the bookings table.
+   
 2) User Interaction:
    
   Creating Bookings: Users enter the booking ID, customer name, and ticket type, and click the "Create" button to add a new booking.
