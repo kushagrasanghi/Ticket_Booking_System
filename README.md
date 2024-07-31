@@ -14,6 +14,7 @@ Key Features
 2)User Interface:
    
   Tkinter Integration: The application uses Tkinter, a standard Python interface to the Tk GUI toolkit, to create a simple and intuitive interface.
+  
   Input Fields and Buttons: The interface includes labeled input fields for booking ID, customer name, and ticket type, along with buttons for creating, updating, deleting, and searching bookings. 
   
 3)Real-time Interaction: 
@@ -22,6 +23,7 @@ Key Features
   Data Display: The application displays the booking details retrieved from the database, providing users with clear and concise information. 
   
 Technical Details 
+
   Programming Language: Python 3 
   
   Database: MySQL 
