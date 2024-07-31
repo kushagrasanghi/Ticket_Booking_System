@@ -38,8 +38,11 @@ How It Works
 2) User Interaction:
    
   Creating Bookings: Users enter the booking ID, customer name, and ticket type, and click the "Create" button to add a new booking.
+  
   Updating Bookings: Users can update existing booking details by entering the booking ID and the new information. 
-  Deleting Bookings: Users can delete a booking by entering the booking ID and clicking the "Delete" button. 
+  
+  Deleting Bookings: Users can delete a booking by entering the booking ID and clicking the "Delete" button.
+  
   Searching Bookings: Users can search for a booking by entering the booking ID and clicking the "Search" button to retrieve and display the booking details. 
 
 This project aims to provide a straightforward and efficient solution for managing ticket bookings, making it an ideal choice for small to medium-sized event management needs. With its robust functionality and user-friendly design, the Ticket Booking System ensures a smooth and hassle-free booking experience. 
