@@ -31,13 +31,14 @@ How It Works:
 1. Database Initialization:
 Upon launching the application, it checks if the ticket_booking_system database exists. If not, it creates the database and the bookings table with the following fields:
 
-booking_id: Unique ID for the booking (auto-increment).
-customer_name: Name of the customer.
-ticket_type: Type of the ticket (e.g., VIP, General).
-event_date: Date of the event.
-seat_number: The seat number assigned to the ticket.
-price: Price of the ticket.
-ticket_status: Status of the ticket (e.g., Confirmed, Cancelled).
+booking_id: Unique ID for the booking (auto-increment).   
+customer_name: Name of the customer.   
+ticket_type: Type of the ticket (e.g., 3A, 2A).    
+event_date: Date of the event.       
+seat_number: The seat number assigned to the ticket.    
+price: Price of the ticket.    
+ticket_status: Status of the ticket (e.g., Confirmed, Cancelled).   
+
 2. User Interaction:
 Creating Bookings: Users enter details like customer name, ticket type, event date, seat number, price, and ticket status, then click the "Create" button to add a new booking.
 
